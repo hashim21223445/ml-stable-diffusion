@@ -2,7 +2,7 @@ coremltools>=7.0
 diffusers[torch]
 diffusionkit
 torch
-transformers==5.0.0rc3
+transformers==5.10.1
 scipy
 scikit-learn
 pytest
